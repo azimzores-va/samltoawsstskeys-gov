@@ -22,7 +22,6 @@
     "<all_urls>",
     "activeTab",
     "storage",
-    "downloads",
-    "tabs"
+    "downloads"
   ]
 }
